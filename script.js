@@ -17,12 +17,12 @@ const translations = {
     en: "Founder & Operator"
   },
   "hero.positioning": {
-    pt: "Fundador de 25 anos que constrói empresas sozinho — e lança rápido com IA.",
-    en: "25-year-old founder who builds companies solo — and ships fast with AI."
+    pt: "Fundador de 25 anos que constrói empresas sozinho, e lança rápido com IA.",
+    en: "25-year-old founder who builds companies solo, and ships fast with AI."
   },
   "hero.pitch": {
-    pt: "Criei a Trocaê do zero: produto, parcerias, financeiro e crescimento. Antes disso, um histórico comercial de recordes. Não espero condições ideais — construo com o que existe.",
-    en: "I built Trocaê from scratch: product, partnerships, finance and growth. Before that, a record-setting commercial track record. I don't wait for perfect conditions — I build with what's in front of me."
+    pt: "Criei a Trocaê do zero: produto, parcerias, financeiro e crescimento. Antes disso, um histórico comercial de recordes. Não espero condições ideais, construo com o que existe.",
+    en: "I built Trocaê from scratch: product, partnerships, finance and growth. Before that, a record-setting commercial track record. I don't wait for perfect conditions, I build with what's in front of me."
   },
   "hero.location": {
     pt: "Belo Horizonte, Brasil · Aberto a presencial e remoto",
